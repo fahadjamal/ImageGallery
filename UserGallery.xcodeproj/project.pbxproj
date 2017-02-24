@@ -12,16 +12,16 @@
 		3A0AC9721BCD0F62000F8910 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3A0AC9701BCD0F62000F8910 /* Main.storyboard */; };
 		3A0AC9741BCD0F62000F8910 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3A0AC9731BCD0F62000F8910 /* Assets.xcassets */; };
 		3A0AC9771BCD0F62000F8910 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3A0AC9751BCD0F62000F8910 /* LaunchScreen.storyboard */; };
-		3A0AC9811BCD103F000F8910 /* GalleryCollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A0AC9801BCD103F000F8910 /* GalleryCollectionViewCell.m */; settings = {ASSET_TAGS = (); }; };
-		3A0AC9851BCD1881000F8910 /* AddPhotoCollectionCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A0AC9841BCD1881000F8910 /* AddPhotoCollectionCell.m */; settings = {ASSET_TAGS = (); }; };
-		3AB03CF51BCE33870097BFAF /* addphoto-bg.png in Resources */ = {isa = PBXBuildFile; fileRef = 3AB03CF31BCE33870097BFAF /* addphoto-bg.png */; settings = {ASSET_TAGS = (); }; };
-		3AB03CF61BCE33870097BFAF /* addphoto-bg@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3AB03CF41BCE33870097BFAF /* addphoto-bg@2x.png */; settings = {ASSET_TAGS = (); }; };
-		3AB03CFE1BCE5C9B0097BFAF /* FXBlurView.m in Sources */ = {isa = PBXBuildFile; fileRef = 3AB03CFA1BCE5C9B0097BFAF /* FXBlurView.m */; settings = {ASSET_TAGS = (); }; };
-		3AB03CFF1BCE5C9B0097BFAF /* ImageCropView.m in Sources */ = {isa = PBXBuildFile; fileRef = 3AB03CFD1BCE5C9B0097BFAF /* ImageCropView.m */; settings = {ASSET_TAGS = (); }; };
-		3AB03D031BCE647A0097BFAF /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 3AB03D021BCE647A0097BFAF /* AppDelegate.m */; settings = {ASSET_TAGS = (); }; };
-		3AB03D071BCE664C0097BFAF /* UserGalleryPaginationItems.m in Sources */ = {isa = PBXBuildFile; fileRef = 3AB03D061BCE664C0097BFAF /* UserGalleryPaginationItems.m */; settings = {ASSET_TAGS = (); }; };
-		3AB03D0B1BCE6B030097BFAF /* UserGalleryItems.m in Sources */ = {isa = PBXBuildFile; fileRef = 3AB03D0A1BCE6B030097BFAF /* UserGalleryItems.m */; settings = {ASSET_TAGS = (); }; };
-		3AB03D0F1BCE71810097BFAF /* ServerResponse.m in Sources */ = {isa = PBXBuildFile; fileRef = 3AB03D0E1BCE71810097BFAF /* ServerResponse.m */; settings = {ASSET_TAGS = (); }; };
+		3A0AC9811BCD103F000F8910 /* GalleryCollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A0AC9801BCD103F000F8910 /* GalleryCollectionViewCell.m */; };
+		3A0AC9851BCD1881000F8910 /* AddPhotoCollectionCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A0AC9841BCD1881000F8910 /* AddPhotoCollectionCell.m */; };
+		3AB03CF51BCE33870097BFAF /* addphoto-bg.png in Resources */ = {isa = PBXBuildFile; fileRef = 3AB03CF31BCE33870097BFAF /* addphoto-bg.png */; };
+		3AB03CF61BCE33870097BFAF /* addphoto-bg@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3AB03CF41BCE33870097BFAF /* addphoto-bg@2x.png */; };
+		3AB03CFE1BCE5C9B0097BFAF /* FXBlurView.m in Sources */ = {isa = PBXBuildFile; fileRef = 3AB03CFA1BCE5C9B0097BFAF /* FXBlurView.m */; };
+		3AB03CFF1BCE5C9B0097BFAF /* ImageCropView.m in Sources */ = {isa = PBXBuildFile; fileRef = 3AB03CFD1BCE5C9B0097BFAF /* ImageCropView.m */; };
+		3AB03D031BCE647A0097BFAF /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 3AB03D021BCE647A0097BFAF /* AppDelegate.m */; };
+		3AB03D071BCE664C0097BFAF /* UserGalleryPaginationItems.m in Sources */ = {isa = PBXBuildFile; fileRef = 3AB03D061BCE664C0097BFAF /* UserGalleryPaginationItems.m */; };
+		3AB03D0B1BCE6B030097BFAF /* UserGalleryItems.m in Sources */ = {isa = PBXBuildFile; fileRef = 3AB03D0A1BCE6B030097BFAF /* UserGalleryItems.m */; };
+		3AB03D0F1BCE71810097BFAF /* ServerResponse.m in Sources */ = {isa = PBXBuildFile; fileRef = 3AB03D0E1BCE71810097BFAF /* ServerResponse.m */; };
 		922D82858E9FAC716601BA6C /* libPods-UserGallery.a in Frameworks */ = {isa = PBXBuildFile; fileRef = A7D5A55E0DEDCD461746EBC5 /* libPods-UserGallery.a */; };
 /* End PBXBuildFile section */
 

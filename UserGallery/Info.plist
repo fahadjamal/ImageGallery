@@ -51,6 +51,10 @@
 			</dict>
 		</dict>
 	</dict>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>For Selection of Image</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>For Selection of Image</string>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UIMainStoryboardFile</key>
