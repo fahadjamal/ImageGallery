@@ -1,0 +1,1 @@
+KVNBOUNDEDIMAGEVIEW_OTHER_LDFLAGS = -framework "CoreImage"
