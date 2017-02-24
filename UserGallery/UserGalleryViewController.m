@@ -82,7 +82,7 @@ MWPhotoBrowserDelegate, NZAlertViewDelegate, MFMailComposeViewControllerDelegate
     //if ([[DataManager sharedInstance] isNetworkReachable]) {
     
     [KVNProgress showWithStatus:@"Loading..."];
-    [self loadUserGalleryList:@"http://www.weions.com" withPathPattern:@"/demo/brand/user_images.php" uploadImage:nil
+    [self loadUserGalleryList:@"http://www.demo.com" withPathPattern:@"/demo/brand/user_images.php" uploadImage:nil
                                                                                                       withName:@""];
 //    }
 //    else {
